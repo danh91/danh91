@@ -8,7 +8,7 @@ I created [Karrio (fomerly PurplShip)](https://karrio) as part of my deep intere
 
 I like to build well designed APIs and dev tools to make other developers productive with Docker, Python, TypeScript (and JavaScript), and modern frontend frameworks.
 
-I am currently building a modern Shipping infrastructure at [Teleship](https://www.teleship.com/) a B2C cross-border parcel delivery service for EU and UK-based eCommerce. As part of my work there and in my spare time, I continue to actively maintain Karrio. If you would like to have my help with your team and product, feel free to **contact me**. 🤓
+I am currently building a modern Shipping infrastructure at [Teleship](https://www.teleship.com/) a B2C cross-border parcel delivery service for EU and UK-based eCommerce. As part of my work there and in my spare time, I continue to actively maintain Karrio.
 
 I am hoping to make Karrio a sustainable open source shipping solution and build a team of core maintainers.
 
