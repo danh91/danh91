@@ -4,7 +4,7 @@ I'm a software developer from Canada. 🇨🇮/🇨🇦
 
 I have been working as full-stack developer for just over a decade designing and building APIs as well as advanced frontend apps for various industries here in Canada.
 
-I created [Karrio (fomerly PurplShip)](https://karrio) as part of my deep interest to contribute to the open source ecosystem.
+I created [Karrio (fomerly PurplShip)](https://karrio.io) as part of my deep interest to contribute to the open source ecosystem.
 
 I like to build well designed APIs and dev tools to make other developers productive with Docker, Python, TypeScript (and JavaScript), and modern frontend frameworks.
 
