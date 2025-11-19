@@ -1,12 +1,12 @@
 ### Hi there, I'm @danh91 (Daniel K) 👋
 
-I'm a software developer from Canada. 🇨🇮/🇨🇦
+I'm a producr engineer from Canada. 🇨🇮/🇨🇦
 
-I have been working as full-stack developer for just over a decade designing and building APIs as well as advanced frontend apps for various industries here in Canada.
+I have been working as full-stack developer for just over a decade designing and building APIs and advanced frontend apps for various industries here in Canada.
 
-I created [Karrio (fomerly PurplShip)](https://karrio.io) as part of my deep interest to contribute to the open source ecosystem.
+I created [Karrio (fomerly PurplShip)](https://karrio.io) as part of my deep interest to be part the open source ecosystem.
 
-I like to build well designed APIs and dev tools to make other developers productive with Docker, Python, TypeScript (and JavaScript), and modern frontend frameworks.
+I like to build well designed APIs and dev tools to make other developers productive with Docker, Python, and TypeScript.
 
 I am currently building a modern Shipping infrastructure at [Teleship](https://www.teleship.com/) a B2C cross-border parcel delivery service for EU and UK-based eCommerce. As part of my work there and in my spare time, I continue to actively maintain Karrio.
 
