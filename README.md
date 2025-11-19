@@ -1,6 +1,6 @@
 ### Hi there, I'm @danh91 (Daniel K) 👋
 
-I'm a producr engineer from Canada. 🇨🇮/🇨🇦
+I'm a product engineer from Canada. 🇨🇮/🇨🇦
 
 I have been working as full-stack developer for just over a decade designing and building APIs and advanced frontend apps for various industries here in Canada.
 
